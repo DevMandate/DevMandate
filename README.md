@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi there, I'm Caleb Wafula</h1>
 <p align="center">
-  <em>Aspiring <strong>Full-Stack Software Engineer</strong> | ALX ProDev Front-End Student | Passionate about <strong>Tech for Good</strong> 🌍</em>
+  <em>Aspiring <strong>Software Engineer</strong> | ALX ProDev Front-End Student | Passionate about <strong>Tech for Good</strong> 🌍</em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/" target="_blank">LinkedIn</a> •
