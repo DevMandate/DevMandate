@@ -1,4 +1,8 @@
 <!-- Banner -->
+<p align="center">
+    <img src="GitHub Banner.png" alt="Banner" style="width:100%;" />
+</p>
+
 <h1 align="center">👋 Hi there, I'm Caleb Wafula</h1>
 <p align="center">
   <em>Aspiring <strong>Full-Stack Software Engineer</strong> | ALX ProDev Front-End Student | Passionate about <strong>Tech for Good</strong> 🌍</em>
