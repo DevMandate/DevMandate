@@ -20,7 +20,7 @@
 <details>
   <summary>My Mission</summary>
   <p>
-    I am a dedicated software developer driven by a mission to build solutions that create operational efficiency and unlock opportunities for others. 
+    I am a dedicated software developer driven by a mission to build solutions that create operational efficiency and unlock Global opportunities. 
     Through innovation and automation, I seek to solve real-world problems and help communities thrive with scalable tech tools.
   </p>
 </details>
@@ -28,10 +28,13 @@
 <details>
   <summary>My Journey</summary>
   <p>
-    👨🏽‍💻 I started my software journey through ALX’s ProDev Front-End program, building real-world applications and cultivating modern development practices. <br/>
-    💡 My goal is to bridge social gaps through automation and impactful digital tools. I’m currently expanding into backend engineering to become fully versatile.
+    👨🏽‍💻 I began my software journey at <a href="https://modcom.co.ke/" target="_blank">Modcom Institute of Technology</a>, where I started building foundational applications and gaining practical exposure to programming. 
+    Seeking to deepen my skills and align with industry standards, I joined the <a href="https://www.alxafrica.com/" target="_blank">ALX</a> ProDev Front-End program to upskill in modern web development. <br/>
+    💡 My goal is to grow into a versatile software engineer, capable of designing and delivering impactful digital solutions that bridge social and operational gaps through automation and technology.
   </p>
 </details>
+
+
 
 ---
 
@@ -67,14 +70,13 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/DevMandate/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=project-2&theme=radical" />
+      <a href="https://github.com/DevMandate/Motoheal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Motoheal&theme=radical" alt="Motoheal Project" />
       </a>
     </td>
   </tr>
 </table>
 
-> 🎥 You can replace `project-2` with a live demo, portfolio, or YouTube walkthrough!
 
 ---
 
@@ -91,7 +93,7 @@
 ### 🤝 Let’s Connect
 
 <ul>
-  <li><strong>📫 Email:</strong> caleb@example.com</li>
+  <li><strong>📫 Email:</strong> wafulacaleb233@gmail.com</li>
   <li><strong>🌐 LinkedIn:</strong> <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/">caleb-wafula</a></li>
   <li><strong>💬 Ask Me About:</strong> Building solutions with a social mission, automation, Flask, React, and career transitioning</li>
 </ul>
@@ -101,7 +103,7 @@
 ### ⚡ Fun Facts
 
 <ul>
-  <li>🌍 Fluent in English & Kiswahili — and learning Kreol Morisien + Russian</li>
+  <li>🌍 Fluent in English & Kiswahili — Open to learning Kreol Morisien + Russian</li>
   <li>🌱 I care deeply about nature, social equity, and empowering communities through tech</li>
   <li>🛠️ Favorite mantra: “Build with Purpose. Scale with Impact.”</li>
 </ul>
@@ -122,4 +124,4 @@
 
 ---
 
-<p align="center"><em>Crafted with passion & purpose 💙</em></p>
+<p align="center"><em>Crafted with passion & purpose 💙 @DevMandate </em></p>
