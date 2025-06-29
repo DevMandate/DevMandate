@@ -93,7 +93,7 @@
 ### 🤝 Let’s Connect
 
 <ul>
-  <li><strong>📫 Email:</strong> wafulacaleb233@gmail.com</li>
+  <li><strong>📫 Email:</strong>  <a href="wafulacaleb233@gmail.com">wafulacaleb233@gmail.com</a></li>
   <li><strong>🌐 LinkedIn:</strong> <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/">caleb-wafula</a></li>
   <li><strong>💬 Ask Me About:</strong> Building solutions with a social mission, automation, Flask, React, and career transitioning</li>
 </ul>
