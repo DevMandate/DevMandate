@@ -105,12 +105,11 @@ Progress: ██████░░░░ 60%
 
 ### 🤝 Let’s Connect
 
-📫 Reach Me
-<p> <img src="https://img.shields.io/badge/Email-wafulacaleb233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Caleb%20Wafula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/DevMandate" target="_blank"> <img src="https://img.shields.io/badge/GitHub-DevMandate-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-💬 Ask Me About
-<p> <img src="https://img.shields.io/badge/Social%20Impact%20Solutions-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automation-Tools-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask" /> <img src="https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Career%20Transition%20Tips-success?style=for-the-badge" /> </p>
-I love discussing ways to use tech for social good, building tools that improve lives, and helping others pivot into tech careers. Let’s connect!
-
+<ul>
+  <li><strong>📫 Email:</strong>  <a href="wafulacaleb233@gmail.com">wafulacaleb233@gmail.com</a></li>
+  <li><strong>🌐 LinkedIn:</strong> <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/">caleb-wafula</a></li>
+  <li><strong>💬 Ask Me About:</strong> Building solutions with a social mission, automation, Flask, React, and career transitioning</li>
+</ul>
 
 ---
 
