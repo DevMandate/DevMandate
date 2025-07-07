@@ -55,19 +55,16 @@
 ### 📌 Current Focus
 
 🔧 Building Scalable Tools for Social Impact & Automation
-<img src="https://img.shields.io/badge/Social%20Impact-blueviolet?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Automation%20Solutions-orange?style=for-the-badge&logo=serverless&logoColor=white" />
 I’m committed to building tools that solve real-world operational challenges—especially in underserved communities—through tech-driven efficiency and automation.
 
 Progress: ████████░░ 80%
 
 🖥️ Creating Efficient Dashboards & Collaborative Systems
-<img src="https://img.shields.io/badge/User%20Dashboards-success?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Team%20Collaboration-yellowgreen?style=for-the-badge&logo=vercel&logoColor=white" />
 Designing user-friendly dashboards and scalable systems that allow teams and users to interact, collaborate, and track activities in real-time.
 
 Progress: ███████░░░ 70%
 
 🚀 Learning CI/CD & Cloud Deployments
-<img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-lightgrey?style=for-the-badge&logo=githubactions&logoColor=blue" /> <img src="https://img.shields.io/badge/Cloud%20Deployment-critical?style=for-the-badge&logo=docker&logoColor=white" />
 Enhancing my backend deployment workflow with Docker, GitHub Actions, and other DevOps tools to ship full-stack apps efficiently at scale.
 
 Progress: ██████░░░░ 60%
