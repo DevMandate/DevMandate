@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi there, I'm Caleb Wafula</h1>
 <p align="center">
-  <em>Aspiring <strong>Software Engineer</strong> | ALX ProDev Front-End Student | Passionate about <strong>Tech for Good</strong> 🌍</em>
+  <em>Aspiring <strong>Software Engineer</strong> | ALX ProDev Front-End Student | Passionate about <strong>Tech for Good</strong></em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/" target="_blank">LinkedIn</a> •
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+# About Me
 
 <details>
   <summary>My Mission</summary>
@@ -28,9 +28,9 @@
 <details>
   <summary>My Journey</summary>
   <p>
-    👨🏽‍💻 I began my software journey at <a href="https://modcom.co.ke/" target="_blank">Modcom Institute of Technology</a>, where I started building foundational applications and gaining practical exposure to programming. 
+    I began my software journey at <a href="https://modcom.co.ke/" target="_blank">Modcom Institute of Technology</a>, where I started building foundational applications and gaining practical exposure to programming. 
     Seeking to deepen my skills and align with industry standards, I joined the <a href="https://www.alxafrica.com/" target="_blank">ALX</a> ProDev Front-End program to upskill in modern web development. <br/>
-    💡 My goal is to grow into a versatile software engineer, capable of designing and delivering impactful digital solutions that bridge social and operational gaps through automation and technology.
+    My goal is to grow into a versatile software engineer, capable of designing and delivering impactful digital solutions that bridge social and operational gaps through automation and technology.
   </p>
 </details>
 
@@ -38,10 +38,10 @@
 
 ---
 
-### 💼 Tech Stack
+# Tech Stack
 
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
-🖼️ Frontend
+Frontend
 <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> </p>
 🔧 Backend
 <p align="center"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p>
@@ -52,7 +52,7 @@
 
 ---
 
-### 📌 Current Focus
+# Current Focus
 
 🔧 Building Scalable Tools for Social Impact & Automation
 I’m committed to building tools that solve real-world operational challenges—especially in underserved communities—through tech-driven efficiency and automation.
@@ -73,7 +73,7 @@ Progress: ██████░░░░ 60%
 
 ---
 
-### 🔥 Featured Projects
+# Featured Projects
 
 <table>
   <tr>
@@ -93,37 +93,37 @@ Progress: ██████░░░░ 60%
 
 ---
 
-### 🧠 Learning & Growth
+# Learning & Growth
 
 <ul>
-  <li>📘 Currently learning: Advanced React, API Integration, and Docker basics</li>
-  <li>🎯 Next Goal: Launch a real-time property or services platform with verified users and scalable backend</li>
-  <li>📚 I thrive in a blended learning path: <strong>Social Impact Developer</strong> + <strong>Automation Builder</strong></li>
+  <li>Currently learning: Advanced React, API Integration, and Docker basics</li>
+  <li>Next Goal: Launch a real-time property or services platform with verified users and scalable backend</li>
+  <li>I thrive in a blended learning path: <strong>Social Impact Developer</strong> + <strong>Automation Builder</strong></li>
 </ul>
 
 ---
 
-### 🤝 Let’s Connect
+# Let’s Connect
 
 <ul>
-  <li><strong>📫 Email:</strong>  <a href="wafulacaleb233@gmail.com">wafulacaleb233@gmail.com</a></li>
-  <li><strong>🌐 LinkedIn:</strong> <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/">caleb-wafula</a></li>
-  <li><strong>💬 Ask Me About:</strong> Building solutions with a social mission, automation, Flask, React, and career transitioning</li>
+  <li><strong>Email:</strong>  <a href="wafulacaleb233@gmail.com">wafulacaleb233@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/">caleb-wafula</a></li>
+  <li><strong>Ask Me About:</strong> Building solutions with a social mission, automation, Flask, React, and career transitioning</li>
 </ul>
 
 ---
 
-### ⚡ Fun Facts
+# ⚡ Fun Facts
 
 <ul>
-  <li>🌍 Fluent in English & Kiswahili — Open to learning Kreol Morisien + Russian</li>
-  <li>🌱 I care deeply about nature, social equity, and empowering communities through tech</li>
-  <li>🛠️ Favorite mantra: “Build with Purpose. Scale with Impact.”</li>
+  <li>Fluent in English & Kiswahili — Open to learning Kreol Morisien + Russian</li>
+  <li>I care deeply about nature, social equity, and empowering communities through tech</li>
+  <li>Favorite mantra: “Build with Purpose. Scale with Impact.”</li>
 </ul>
 
 ---
 
-### 📊 GitHub Stats & Insights
+# GitHub Stats & Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevMandate&show_icons=true&theme=radical" alt="GitHub Stats" />
