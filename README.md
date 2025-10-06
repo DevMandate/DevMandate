@@ -118,6 +118,11 @@ Progress: ██████░░░░ 60%
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Motoheal&theme=radical" alt="Motoheal Project" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/DevMandate/interactive-job-board">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=interactive-job-board&theme=radical" alt="Interactive Job Board" />
+      </a>
+    </td>
   </tr>
 </table>
 
