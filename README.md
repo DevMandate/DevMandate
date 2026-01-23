@@ -127,7 +127,7 @@ Progress: ██████░░░░ 60%
       </a>
     </td>
     <td>
-      <a href="https://homeglowservices.vercel.app/">
+      <a href="https://styloxdesigns.netlify.app/cart">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Elegance-Corture&theme=radical" alt="Elegance Corture" />
       </a>
     </td>
