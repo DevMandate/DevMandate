@@ -122,12 +122,12 @@ Progress: ██████░░░░ 60%
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/DevMandate/interactive-job-board">
+      <a href="https://interactive-job-board-tawny.vercel.app/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=interactive-job-board&theme=radical" alt="Interactive Job Board" />
       </a>
     </td>
     <td>
-      <a href="https://styloxdesigns.netlify.app/cart">
+      <a href="https://styloxdesigns.netlify.app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Elegance-Corture&theme=radical" alt="Elegance Corture" />
       </a>
     </td>
