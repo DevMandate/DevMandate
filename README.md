@@ -109,18 +109,26 @@ Progress: ██████░░░░ 60%
 <table>
   <tr>
     <td>
-      <a href="https://github.com/DevMandate/LinknaMali">
+      <a href="https://linknamali.ke/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=LinknaMali&theme=radical" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/DevMandate/Motoheal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Motoheal&theme=radical" alt="Motoheal Project" />
+      <a href="https://homeglowservices.vercel.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Homeglow&theme=radical" alt="HomeGlow Website" />
       </a>
     </td>
+
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/DevMandate/interactive-job-board">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=interactive-job-board&theme=radical" alt="Interactive Job Board" />
+      </a>
+    </td>
+    <td>
+      <a href="https://homeglowservices.vercel.app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Elegance-Corture&theme=radical" alt="Elegance Corture" />
       </a>
     </td>
   </tr>
