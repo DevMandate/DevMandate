@@ -1,183 +1,146 @@
-<!-- Banner -->
+![DevMandate GitHub Banner](./GitHub%20Banner.png)
+
+<h1 align="center">Caleb Wafula</h1>
+
 <p align="center">
-    <img src="GitHub Banner.png" alt="Banner" style="width:100%;" />
+  <strong>Software Engineer | Full-Stack Development | Digital Solutions</strong>
 </p>
 
-<h1 align="center">👋 Hi there, I'm Caleb Wafula</h1>
 <p align="center">
-  <em><strong>Software Engineer</strong> | ALX ProDev Front-End Student | Passionate about <strong>Tech for Good</strong></em>
+  Building practical, maintainable software that solves real-world problems.
 </p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/" target="_blank">LinkedIn</a> •
-  <a href="mailto:wafulacaleb233@gmail.com">Email</a> •
-  <a href="https://github.com/DevMandate">GitHub</a>
+  <a href="https://github.com/DevMandate">GitHub</a> •
+  <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/">LinkedIn</a> •
+  <a href="https://devmandateportfolio.vercel.app/">Portfolio</a> •
+  <a href="mailto:wafulacaleb233@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+## About
 
-<details>
-  <summary>My Mission</summary>
-  <p>
-    - I am a dedicated software developer driven by a mission to build solutions that create operational efficiency and unlock Global opportunities. <br/>
-    - Through innovation and automation, I seek to solve real-world problems and help communities thrive with scalable tech tools. <br/>
-  </p>
-</details>
+I'm a software engineer focused on building functional, user-centered digital products, from responsive web interfaces to backend services and data-driven applications.
 
-<details>
-  <summary>My Journey</summary>
-  <p>
-    - I began my software journey at <a href="https://modcom.co.ke/" target="_blank">Modcom Institute of Technology</a>, where I started building foundational applications and gaining practical exposure to programming. <br/>
-    - Seeking to deepen my skills and align with industry standards, I joined the <a href="https://www.alxafrica.com/" target="_blank">ALX</a> ProDev Front-End program to upskill in modern web development. <br/>
-    - My goal is to grow into a versatile software engineer, capable of designing and delivering impactful digital solutions that bridge social and operational gaps through automation and technology. <br/>
-  </p>
-</details>
+My work combines frontend engineering, backend development, database design, and practical problem-solving. I value clean code, maintainable architecture, thoughtful user experiences, and solutions that address real operational needs.
 
----
+Beyond software engineering, I have experience in graphic design, video editing, and digital media management. This multidisciplinary background helps me approach products from both technical and communication perspectives.
 
-## Tech Stack
+**My guiding principle:** Build with purpose. Engineer for reliability. Deliver meaningful impact.
+
+## Technical Skills
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend
+### Frontend Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Backend
+### Backend Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
-### Database
+### Databases and Data
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### Tools & Others
+### Engineering Tools and Workflow
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Basic_Exposure-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+## Selected Projects
 
-## Current Focus
+### 1. LinknaMali
 
-- Building Scalable Tools for Social Impact & Automation
-  I’m committed to building tools that solve real-world operational challenges—especially in underserved communities—through tech-driven efficiency and automation.
+**Property and real estate platform**
 
-Progress: ████████░░ 80%
+Contributed to the development of a digital property platform, working across frontend interfaces, backend functionality, and database integration.
 
-- Creating Efficient Dashboards & Collaborative Systems
-  Designing user-friendly dashboards and scalable systems that allow teams and users to interact, collaborate, and track activities in real-time.
+- **Frontend:** React, Tailwind CSS, JavaScript
+- **Backend:** Flask, SQLAlchemy
+- **Database:** MySQL
 
-Progress: ███████░░░ 70%
+[Visit Website](https://linknamali.ke/) · [Explore Repository](https://github.com/DevMandate/LinknaMali)
 
-- Learning CI/CD & Cloud Deployments
-  Enhancing my backend deployment workflow with Docker, GitHub Actions, and other DevOps tools to ship full-stack apps efficiently at scale.
+### 2. HomeGlow
 
-Progress: ██████░░░░ 60%
+**Home services digital experience**
 
----
+A web project focused on presenting home services through a clear, accessible digital interface.
 
-## Featured Projects
+[Visit Website](https://homeglowservices.vercel.app/) · [Explore Repository](https://github.com/DevMandate/Homeglow)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://linknamali.ke/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=LinknaMali&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://homeglowservices.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Homeglow&theme=radical" alt="HomeGlow Website" />
-      </a>
-    </td>
+### 3. Interactive Job Board
 
-  </tr>
-  <tr>
-    <td>
-      <a href="https://interactive-job-board-tawny.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=interactive-job-board&theme=radical" alt="Interactive Job Board" />
-      </a>
-    </td>
-    <td>
-      <a href="https://styloxdesigns.netlify.app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMandate&repo=Elegance-Corture&theme=radical" alt="Elegance Corture" />
-      </a>
-    </td>
-  </tr>
-</table>
+**Job discovery and application interface**
+
+A web application project focused on organizing job opportunities into an interactive interface for users.
+
+[View Live Project](https://interactive-job-board-tawny.vercel.app/) · [Explore Repository](https://github.com/DevMandate/interactive-job-board)
+
+### 4. Elegance Couture
+
+**Fashion and brand website**
+
+A fashion-oriented web experience designed to present a brand and its offerings through a polished interface.
+
+[View Live Project](https://styloxdesigns.netlify.app/) · [Explore Repository](https://github.com/DevMandate/Elegance-Corture)
 
 ---
 
-## Learning & Growth
+## Engineering Focus
 
-<ul>
-  <li>Currently learning: Advanced React, API Integration, and Docker basics</li>
-  <li>Next Goal: Launch a real-time property or services platform with verified users and scalable backend</li>
-  <li>I thrive in a blended learning path: <strong>Social Impact Developer</strong> + <strong>Automation Builder</strong></li>
-</ul>
+My current professional development priorities include:
 
----
+- **Software architecture:** Structuring applications for maintainability, separation of concerns, and future growth.
+- **API and backend engineering:** Building reliable services, integrating APIs, and managing application data.
+- **Testing and quality:** Improving validation, error handling, debugging, and automated testing practices.
+- **Deployment and DevOps:** Developing stronger workflows around Docker, CI/CD, and production deployments.
+- **Product engineering:** Connecting user needs, business requirements, and technical implementation.
 
-## Let’s Connect
+I approach these areas through practical projects, continuous learning, and iterative improvement.
 
-<ul>
-  <li><strong>Email:</strong>  <a href="wafulacaleb233@gmail.com">wafulacaleb233@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/caleb-wafula-b25374290/">caleb-wafula</a></li>
-  <li><strong>Ask Me About:</strong> Building solutions with a social mission, automation, Flask, React, and career transitioning</li>
-</ul>
+## Beyond Code
 
----
+I also work across creative and communication disciplines:
 
-## Fun Facts
+- Graphic design and visual communication
+- Video editing and digital content production
+- Social media management
+- Technology for social impact and community development
 
-<ul>
-  <li>Fluent in English & Kiswahili — Open to learning Kreol Morisien + Russian</li>
-  <li>I care deeply about nature, social equity, and empowering communities through tech</li>
-  <li>Favorite mantra: “Build with Purpose. Scale with Impact.”</li>
-</ul>
+These complementary skills strengthen my ability to contribute across the software product lifecycle.
 
----
+## Let's Connect
 
-## GitHub Stats & Insights
+I'm interested in collaborating on meaningful software projects, solving challenging technical problems, and building digital products that create measurable value.
+
+- **Portfolio:** [devmandateportfolio.vercel.app](https://devmandateportfolio.vercel.app/)
+- **LinkedIn:** [Caleb Wafula](https://www.linkedin.com/in/caleb-wafula-b25374290/)
+- **GitHub:** [@DevMandate](https://github.com/DevMandate)
+- **Email:** [wafulacaleb233@gmail.com](mailto:wafulacaleb233@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMandate&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMandate&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMandate&layout=compact&theme=radical" alt="Top Languages" />
+  <em>DevMandate — Build with Purpose. Scale with Impact.</em>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevMandate&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<p align="center"><em>Crafted with passion & purpose 💙 @DevMandate </em></p>
