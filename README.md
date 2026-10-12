@@ -71,41 +71,72 @@ Beyond software engineering, I have experience in graphic design, video editing,
 
 ## Selected Projects
 
-### 1. LinknaMali
+### 1. Utilora Technologies
 
-**Property and real estate platform**
+**Smart utility management and metering solutions**
 
-Contributed to the development of a digital property platform, working across frontend interfaces, backend functionality, and database integration.
+A corporate website for a technology company focused on smart metering, utility management, billing, payments, and IoT solutions. The platform presents the company's products and services, publishes insights through a content management system, and supports product inquiries and requests.
 
-- **Frontend:** React, Tailwind CSS, JavaScript
-- **Backend:** Flask, SQLAlchemy
-- **Database:** MySQL
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Content Management:** Sanity
+- **Email Services:** Resend
+- **Deployment:** Vercel
 
-[Visit Website](https://linknamali.ke/) · [Explore Repository](https://github.com/DevMandate/LinknaMali)
+[Visit Website](https://www.utilora.co.ke/) · [Explore Repository](https://github.com/DevMandate/utilora-technologies)
 
-### 2. HomeGlow
+### 2. BizFix
 
-**Home services digital experience**
+**Business strategy and intelligence consultancy**
 
-A web project focused on presenting home services through a clear, accessible digital interface.
+A corporate website for a consultancy focused on business strategy and intelligence in East Africa. The platform communicates the company's services and expertise through a structured, content-managed digital experience.
 
-[Visit Website](https://homeglowservices.vercel.app/) · [Explore Repository](https://github.com/DevMandate/Homeglow)
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Content Management:** Sanity
+- **Email Services:** Resend
+- **Deployment:** Vercel
 
-### 3. Interactive Job Board
+[Visit Website](https://bizfixgroup.vercel.app/) · [Explore Repository](https://github.com/DevMandate/bizfixgroup)
 
-**Job discovery and application interface**
+### 3. HomeGlow Elite
 
-A web application project focused on organizing job opportunities into an interactive interface for users.
+**Cleaning services and booking management platform**
 
-[View Live Project](https://interactive-job-board-tawny.vercel.app/) · [Explore Repository](https://github.com/DevMandate/interactive-job-board)
+A digital platform for cleaning services, combining a customer-facing website with administrative tools for managing bookings, quotations, inquiries, galleries, testimonials, and other service content.
 
-### 4. Elegance Couture
+- **Frontend:** React, TypeScript, Vite
+- **UI:** Tailwind CSS, Material UI
+- **Media Management:** Cloudinary
+- **Package Manager:** pnpm
 
-**Fashion and brand website**
+[Visit Website](https://homeglowservices.vercel.app/) · [Explore Repository](https://github.com/DevMandate/homeglow-elite)
 
-A fashion-oriented web experience designed to present a brand and its offerings through a polished interface.
+### 4. Interactive Job Board
 
-[View Live Project](https://styloxdesigns.netlify.app/) · [Explore Repository](https://github.com/DevMandate/Elegance-Corture)
+**Job discovery and recruitment platform**
+
+An interactive recruitment application that enables job seekers to explore opportunities and apply for positions, while recruiters can post and manage job listings.
+
+- **Frontend:** React, Tailwind CSS, shadcn/ui
+- **Backend Services and Database:** Supabase
+- **Authentication:** Clerk
+
+[Visit Website](https://interactive-job-board-tawny.vercel.app/) · [Explore Repository](https://github.com/DevMandate/interactive-job-board)
+
+### 5. MandieStore
+
+**Full-stack e-commerce application**
+
+An e-commerce platform built around product discovery and online shopping, with authentication, database integration, cloud-based media management, and event-driven background processing.
+
+- **Framework:** Next.js, React
+- **Styling:** Tailwind CSS
+- **Database:** MongoDB
+- **Authentication:** Clerk
+- **Background Jobs:** Inngest
+- **Media Management:** Cloudinary
+- **Deployment:** Vercel
+
+[Visit Website](https://mandie-store.vercel.app/) · [Explore Repository](https://github.com/DevMandate/MandieStore)
 
 ---
 
@@ -142,5 +173,5 @@ I'm interested in collaborating on meaningful software projects, solving challen
 - **Email:** [wafulacaleb233@gmail.com](mailto:wafulacaleb233@gmail.com)
 
 <p align="center">
-  <em>DevMandate — Build with Purpose. Scale with Impact.</em>
+  <em>DevMandate - Build with Purpose. Scale with Impact.</em>
 </p>
